@@ -275,6 +275,12 @@ img{
     background-color:#007AFF;
 }
 }
+
+@media (max-width:980px){
+    .cards:hover .play{
+        display:none;}
+}
+
 @media (max-width:942px){
     .bar{
         width:100%;
