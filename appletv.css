@@ -275,7 +275,20 @@ img{
     background-color:#007AFF;
 }
 }
+@media (max-width:942px){
+    .bar{
+        width:100%;
+        height:51px;
+    }
+    button{
+        margin-right:5px;
+    }
+    .logo2{
+        margin-left:420px;
+        margin-right:0px;
+    }
 
+}
 @media all and (max-width:769px){
     body{
         background-color:rgba(0, 0, 0, 0.874);
