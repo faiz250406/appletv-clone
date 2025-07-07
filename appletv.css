@@ -401,6 +401,37 @@ img{
         height:52px;
     }
     }
+@media (max-width:481px){
+    .cover{
+        display:none;
+    }
+    .cover2{
+        display:block;
+        width:425px;
+        height:570px;
+    }
+    .logo2{
+        margin-left:155px;
+    }
+    .btn2{
+        margin-left:135px;
+    }
+    .para3{
+        font-size:17px;
+    }
+    .logoend{
+        font-size:30px;
+    }
+    .info{
+       left:20%;
+    }
+    .para2{
+        font-size:10px;
+    }
+    .btn{
+        margin-left:0px;
+    }
+}
 
 @media (max-width:426px){
     .cover{
