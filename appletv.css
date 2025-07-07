@@ -423,6 +423,7 @@ img{
         font-size:30px;
     }
     .info{
+        top:20%;
        left:20%;
     }
     .para2{
@@ -434,7 +435,7 @@ img{
 }
 @media (max-width:438px){
     .info{
-        top:35%;
+        top:20%;
     }
     .cover2{
         width:400px;
