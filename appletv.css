@@ -432,7 +432,26 @@ img{
         margin-left:0px;
     }
 }
+@media (max-width:438px){
+    .info{
+        top:35%;
+    }
+    .cover2{
+        width:400px;
+        height:520px;
+    }
+    .title{
+        margin-left:10px;
+    }
+    .para2{
+        margin-left:0px;
+    }
+    .para0{
+        font-size:26px;
+        width:307px;
+    }
 
+}
 @media (max-width:426px){
     .cover{
         display:none;
