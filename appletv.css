@@ -287,7 +287,8 @@ img{
         margin-left:420px;
         margin-right:0px;
     }
-
+    .play{
+        display:none;}
 }
 @media all and (max-width:769px){
     body{
